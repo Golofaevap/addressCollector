@@ -1,0 +1,24 @@
+{
+    "name": "godaddy.com",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "cli-select": "^1.1.2",
+        "colors": "^1.4.0",
+        "email-validator": "^2.0.4",
+        "extract-zip": "^2.0.1",
+        "lodash": "^4.17.21",
+        "prompt-sync": "^4.2.0",
+        "puppeteer": "^8.0.0",
+        "puppeteer-extra": "^3.1.18",
+        "puppeteer-extra-plugin-adblocker": "^2.11.11",
+        "puppeteer-extra-plugin-proxy": "^1.0.2",
+        "puppeteer-extra-plugin-stealth": "^2.7.6"
+    }
+}
